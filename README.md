@@ -1,3 +1,9 @@
+
+![cc1](https://github.com/Directbookstore/Digitmarkpro/assets/135593109/d8035f3c-6583-4e71-b814-c91311ac69b9)
+
+![cc2](https://github.com/Directbookstore/Digitmarkpro/assets/135593109/fabba0f0-a60c-4593-9ffc-c518e4a4fe17)
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
